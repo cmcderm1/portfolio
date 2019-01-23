@@ -202,13 +202,13 @@ body.dark-body {
 
 .btn-theme {
   color: #fff;
-  background: #4e6689;
+  background: #000000;
 }
 .btn-theme:focus,
 .btn-theme:active,
 .btn-theme:hover {
   color: #fff;
-  background: #111;
+  background: #C0B283;
   text-decoration: none;
 }
 
@@ -220,10 +220,10 @@ body.dark-body {
   color: #292929;
 }
 .yellow-bg {
-  background-color: #f8c964;
+  background-color: #dcd0c0;
 }
 .yellow-after:after {
-  background-color: #f8c964;
+  background-color: #dcd0c0;
 }
 .blue-bg {
   background-color: #dcd0c0;
@@ -407,6 +407,7 @@ body.dark-body {
   Header
 -----------------------------------*/
 .header {
+  color: #C0B283;
   position: fixed;
   top: 0;
   right: 0;
