@@ -201,6 +201,7 @@ body.dark-body {
 
 .btn-theme {
   color: #fff;
+  background: #4e6689;
 }
 .btn-theme:focus,
 .btn-theme:active,
