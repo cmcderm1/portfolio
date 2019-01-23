@@ -417,6 +417,7 @@ body.dark-body {
 }
 .header .logo {
   color: #ffffff;
+  font-family: 'Abhaya Libre', serif;
   font-size: 20px;
   font-weight: 600;
   text-transform: uppercase;
