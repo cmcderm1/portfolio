@@ -336,6 +336,7 @@ body.dark-body {
 }
 
 .section-titel h2 {
+  font-family: 'Abhaya Libre', serif;
   font-size: 45px;
   font-weight: 700;
   position: relative;
@@ -643,6 +644,7 @@ body.dark-body {
   About text
 -----------------------------------*/
 .about-text h3{
+  font-family: 'Abhaya Libre', serif;
   font-weight:600;
   font-size: 22px;
   margin: 0 0 10px
