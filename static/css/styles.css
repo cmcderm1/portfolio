@@ -456,7 +456,7 @@ body.dark-body {
 .pages-nav .link {
     font-family: 'Abhaya Libre', serif;
     color: #fff;
-    font-size: 20px;
+    font-size: 20px !important;
     text-transform: uppercase;
     text-decoration: none;
     position: relative;
