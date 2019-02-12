@@ -1,3 +1,11 @@
+<?php
+if($_POST["message"]) {
+    mail("candice.marie.mcdermott@gmail.com", "Contact form submission.", $_POST["message"], "From: an@email.address");
+}
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
 
