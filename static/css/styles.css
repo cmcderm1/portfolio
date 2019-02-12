@@ -279,7 +279,8 @@ body.dark-body {
   color: #C0B283;
   margin: 0 0 15px 65px;
   text-transform: uppercase;
-  text-shadow: 2px 2px #000;
+  text-shadow: 1px 1px white !important;
+
 }
 
 @media(max-width: 1200px){
