@@ -255,7 +255,7 @@ body.dark-body {
   width: 2px;
   top: 50px;
   bottom: 50px;
-  background: #fff;
+  background: #C0B283;
   left: 45px;
   z-index: 1;
   position: absolute;
@@ -267,14 +267,14 @@ body.dark-body {
   right: 50px;
   bottom: 50px;
   left: 45px;
-  background: #fff;
+  background: #C0B283;
   z-index: 1;
   position: absolute;
 }
 
 .page-title h2 {
   font-size: 35px;
-  color: #FFF;
+  color: #C0B283;
   margin: 0 0 15px 65px;
   text-transform: uppercase;
 }
