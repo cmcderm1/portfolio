@@ -95,7 +95,6 @@ body.dark-body {
 .load-circle:after {
   animation: ball2 1s infinite;
   background-color: #C0CBCF;
-  color:white;
   box-shadow: 30px 0 0 #ffbc5c;
 }
 
