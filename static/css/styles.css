@@ -1080,7 +1080,7 @@ padding: 20px;
   line-height: normal;
 }
 .testimonial-col .user .name label {
-  opacity: 0.1;
+  color: #c0b283;
   margin: 0;
   font-size: 12px;
   display: block;
